@@ -1,4 +1,4 @@
-# labIP
+# Labrator4 IP
 
 # Echipa:
 
