@@ -1,6 +1,6 @@
 # labIP
 
-#Echipa:
+# Echipa:
 
 (Coordonator) Craciun Mihai-Cosmin
 
@@ -14,7 +14,7 @@ Olariu Alexandra
 
 Postolache Alex
 
-#Taskuri
+# Taskuri
 
 Refacut Fisa Cerintelor: Sescu Alexandra-Carmen, Olariu Alexandra
 
